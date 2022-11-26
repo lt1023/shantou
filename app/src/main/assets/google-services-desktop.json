@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "195293545331",
+    "project_id": "get-them-drunk",
+    "storage_bucket": "get-them-drunk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195293545331:ios:b700e44bc16588ca14bb06",
+        "android_client_info": {
+          "package_name": "studio.smartraven.getthemdrunk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195293545331-ghdgq3ev2m2tk0q279uioj2ld7blpoo1.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB86ZsLan7WQairmHVUICTbAEkbvJrCWe4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
